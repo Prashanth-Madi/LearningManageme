@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color:yellow;
+}
+.description{
+    width: 40%;
+}
+.contact{
+    display: flex;
+    gap: 10%;
+}
+.contact button{
+    width: 150px;
+    height: 40px;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,35 @@
+/* *{
+    margin-top:0px ;
+} */
+.header {
+    background-color: black;
+    
+}
+
+.header ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: medium;
+    color: green;
+    margin-top: 0px;
+
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+    justify-content: space-around;
+    
+}
+
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
